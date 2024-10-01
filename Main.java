@@ -4,6 +4,7 @@ public class Main {
 
         App app = new App();
         System.out.println("C de carreteiro");
+        System.out.println("C de carreteiro");
 
     }
 }
