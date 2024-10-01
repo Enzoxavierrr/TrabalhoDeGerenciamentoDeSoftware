@@ -1,2 +1,2 @@
 # TrabalhoDeGerenciamentoDeSoftware
-Trabalho de Gerenciamento de Config. de Software
+Repositório do trabalho de Gerenciamento de Config. de Software
