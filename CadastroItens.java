@@ -1,5 +1,5 @@
-import java.util.Collection;
+import java.util.ArrayList;
 
 public class CadastroItens {
-    private Collection<Item> itens;
+    private ArrayList<Item> itens;
 }

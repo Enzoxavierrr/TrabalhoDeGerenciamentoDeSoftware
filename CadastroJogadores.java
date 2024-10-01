@@ -1,5 +1,5 @@
-import java.util.Collection;
+import java.util.ArrayList;
 
 public class CadastroJogadores {
-    private Collection<Jogador> Jogadores;
+    private ArrayList<Jogador> Jogadores;
 }
