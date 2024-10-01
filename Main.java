@@ -4,6 +4,7 @@ public class Main {
 
         App app = new App();
 
+        System.out.println("SALVE");
 
     }
 }
